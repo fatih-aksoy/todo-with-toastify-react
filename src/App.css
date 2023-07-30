@@ -1,0 +1,24 @@
+.app{
+    padding:30px;
+    /* background : linear-gradient(90deg, #c9be89, #048edc) */
+}
+
+.todo{
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+    justify-content: space-between;
+}
+
+
+
+body{
+    background : linear-gradient(90deg, #c9be89, #048edc)
+}
+
+.button{
+    
+}
+
+
+
